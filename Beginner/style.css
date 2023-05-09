@@ -1,0 +1,16 @@
+html {
+    font-size: 1.2rem;
+}
+
+body {
+    color: #2b2a27;
+    font-family: "Helvetica Neue", "Arial", "Hiragino Sans", "Meiryo", sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #2b2a27;
+}
